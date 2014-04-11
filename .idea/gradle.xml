@@ -7,8 +7,8 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/SpitItOut" />
+            <option value="C:\Users\Shoeblazer\Documents\GitHub\SpitItOut" />
+            <option value="C:\Users\Shoeblazer\Documents\GitHub\SpitItOut\SpitItOut" />
           </set>
         </option>
       </GradleProjectSettings>

@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectModuleManager">
-    <modules />
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpitItOut.iml" filepath="$PROJECT_DIR$/SpitItOut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpitItOut/SpitItOut-SpitItOut.iml" filepath="$PROJECT_DIR$/SpitItOut/SpitItOut-SpitItOut.iml" />
+    </modules>
   </component>
 </project>
 
