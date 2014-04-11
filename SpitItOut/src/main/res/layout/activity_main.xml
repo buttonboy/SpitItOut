@@ -9,8 +9,30 @@
     tools:context="com.spititoutmusic.spititout.app.MainActivity">
 
     <TextView
-        android:text="@string/hello_world"
+        android:text="This app is simple"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:id="@+id/textView" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Record"
+        android:id="@+id/btnRecord"
+        android:layout_marginTop="168dp"
+        android:layout_below="@+id/textView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Play"
+        android:id="@+id/btnPlay"
+        android:layout_marginTop="31dp"
+        android:layout_below="@+id/btnRecord"
+        android:layout_centerHorizontal="true" />
 
 </RelativeLayout>
