@@ -1,4 +1,14 @@
-.gradle
+
+*.iml
+*.iws
+*.ipr
+.idea/
+.gradle/
 /local.properties
 /.idea/workspace.xml
 .DS_Store
+
+*/build/
+
+*~
+*.swp
